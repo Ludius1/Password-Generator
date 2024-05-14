@@ -25,7 +25,7 @@
  
 h1 {
   font-weight: 300;
-  animation: tracking-in-expand 1s infinite;
+  /* animation: tracking-in-expand 1s infinite; */
 }
 h6 {
   font-weight: 300;
