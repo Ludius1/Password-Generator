@@ -8,7 +8,7 @@ function App() {
   const [includeCapitalCharacters, setIncludeCapitalCharacters] = useState(false);
   const [includeSpecialCharacters, setIncludeSpecialCharacters] = useState(false);
 
-  const [passwordLength, setPasswordLength] = useState(); // Default password length
+  const [passwordLength, setPasswordLength] = useState(); 
 
   const generatePassword = () => {
     const numbersCharacters = '0123456789';
